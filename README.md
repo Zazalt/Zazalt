@@ -1,6 +1,6 @@
-Name | Build status
---- | --- | ---
-Calculus | [![Build Status](https://travis-ci.org/Zazalt/Calculus.svg?branch=master)](https://travis-ci.org/Zazalt/Calculus)
+Name | Build status | Coverage | Quality
+--- | --- | --- | --- | ---
+Calculus | [![Build Status](https://travis-ci.org/Zazalt/Calculus.svg?branch=master)](https://travis-ci.org/Zazalt/Calculus) | [![Coverage Status](https://coveralls.io/repos/github/Zazalt/Calculus/badge.svg?branch=master)](https://coveralls.io/github/Zazalt/Calculus?branch=master) | [![Code Climate](https://codeclimate.com/github/Zazalt/Calculus/badges/gpa.svg)](https://codeclimate.com/github/Zazalt/Calculus)
 
 Calculus
 =================
