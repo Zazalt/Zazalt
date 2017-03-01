@@ -1,4 +1,4 @@
-Name | Build status | Coverage | Quality | Issues | Downloads | Release | Version
+Name | Status | Coverage | Quality | Issues | Downloads | Release | Version
 --- | --- | --- | --- | --- | --- | --- | ---
 **Calculus** | [![Build Status](https://travis-ci.org/Zazalt/Calculus.svg?branch=master)](https://travis-ci.org/Zazalt/Calculus) | [![Coverage Status](https://coveralls.io/repos/github/Zazalt/Calculus/badge.svg?branch=master)](https://coveralls.io/github/Zazalt/Calculus?branch=master) | [![Code Climate](https://codeclimate.com/github/Zazalt/Calculus/badges/gpa.svg)](https://codeclimate.com/github/Zazalt/Calculus) | [![Issue Count](https://codeclimate.com/github/Zazalt/Calculus/badges/issue_count.svg)](https://codeclimate.com/github/Zazalt/Calculus/issues) | [![Total Downloads](https://poser.pugx.org/zazalt/calculus/downloads)](https://packagist.org/packages/zazalt/calculus/stats) | [![Latest Stable Version](https://poser.pugx.org/zazalt/calculus/v/stable)](https://packagist.org/packages/zazalt/calculus) | ![Version](https://img.shields.io/badge/version-beta-yellow.svg)
 
