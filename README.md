@@ -1,3 +1,5 @@
+Calculus | [![Build Status](https://travis-ci.org/Zazalt/Calculus.svg?branch=master)](https://travis-ci.org/Zazalt/Calculus)
+
 Calculus
 =================
 
